@@ -1,6 +1,3 @@
-It looks like you have uploaded several files related to a health insurance dataset project on GitHub. To create an informative README file that explains the contents of your repository and how to use it, you can structure the README as follows:
-
----
 
 # Health Insurance Cost Prediction
 
@@ -46,10 +43,3 @@ The `insurance.csv` dataset contains information about individuals including age
   
 - Explore hyperparameter tuning to optimize the model parameters further.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize the content of the README based on your specific project details, additional resources, or any other relevant information you want to include. Providing clear instructions on how to use and run your project will make it more accessible and valuable to others who visit your GitHub repository.
