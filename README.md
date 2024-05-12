@@ -1,9 +1,4 @@
-# Healthcare_dataset
 
-
-Certainly! To create a detailed and informative README for your GitHub repository highlighting your work on medical cost prediction using regression models, you can structure the information in a clear and organized manner. Below is a suggested outline for your README:
-
----
 
 # Medical Cost Prediction
 
@@ -23,16 +18,6 @@ The goal of this project was to develop regression models that can accurately qu
 
 - Successfully predicted medical insurance charges for individuals based on historical data, contributing to informed decision-making in healthcare cost estimation.
 
-## Repository Structure
-
-- **`data/`**: Contains the dataset used for analysis and model training.
-  
-- **`notebooks/`**: Jupyter notebooks documenting the data exploration, feature engineering, model development, and evaluation.
-
-- **`scripts/`**: Python scripts for data preprocessing, model training, and prediction.
-
-- **`results/`**: Output files, model artifacts, and visualization outputs.
-
 ## Getting Started
 
 ### Prerequisites
@@ -43,9 +28,6 @@ The goal of this project was to develop regression models that can accurately qu
 
 ### Usage
 
-1. Explore the Jupyter notebooks in the `notebooks/` directory to understand the data analysis and model development process.
-
-2. Execute the scripts in the `scripts/` directory for data preprocessing, model training, and prediction.
 
 ## Future Improvements
 
